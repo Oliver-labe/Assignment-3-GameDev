@@ -217,7 +217,7 @@ GameObject:
   - component: {fileID: 2127404037}
   - component: {fileID: 2127404036}
   m_Layer: 0
-  m_Name: intro music
+  m_Name: intromusic
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
