@@ -1,19 +1,22 @@
 fileFormatVersion: 2
-guid: bde8296a63686408183608247001fa39
+guid: bb06f4161e69c40a8ba2d703b25b586f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7496613901460262382
-    second: blueGhost_0
+      213: 2167846483969313247
+    second: pacManDie_0
   - first:
-      213: 7794220945642654495
-    second: blueGhost_1
+      213: 2857404628408662034
+    second: pacManDie_1
   - first:
-      213: 6634878758689761285
-    second: blueGhost_2
+      213: 5033461917382302504
+    second: pacManDie_2
   - first:
-      213: 8900881854151341064
-    second: blueGhost_3
+      213: 1274381392187502421
+    second: pacManDie_3
+  - first:
+      213: 8113778518454477928
+    second: pacManDie_4
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -103,13 +106,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: blueGhost_0
+      name: pacManDie_0
       rect:
         serializedVersion: 2
-        x: 40
-        y: 172
-        width: 48
-        height: 60
+        x: 44
+        y: 192
+        width: 56
+        height: 52
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -117,20 +120,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 212b439106da6f790800000000000000
-      internalID: -7496613901460262382
+      spriteID: fd9029434ecb51e10800000000000000
+      internalID: 2167846483969313247
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blueGhost_1
+      name: pacManDie_1
       rect:
         serializedVersion: 2
-        x: 168
-        y: 172
-        width: 48
-        height: 60
+        x: 172
+        y: 192
+        width: 56
+        height: 40
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -138,20 +141,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f1b80fd87a2aa2c60800000000000000
-      internalID: 7794220945642654495
+      spriteID: 218fadfce5a87a720800000000000000
+      internalID: 2857404628408662034
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blueGhost_2
+      name: pacManDie_2
       rect:
         serializedVersion: 2
-        x: 296
-        y: 172
-        width: 48
-        height: 60
+        x: 300
+        y: 192
+        width: 56
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -159,20 +162,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 508ec73f313d31c50800000000000000
-      internalID: 6634878758689761285
+      spriteID: 82b570802f27ad540800000000000000
+      internalID: 5033461917382302504
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blueGhost_3
+      name: pacManDie_3
       rect:
         serializedVersion: 2
-        x: 40
-        y: 44
-        width: 48
-        height: 60
+        x: 44
+        y: 64
+        width: 52
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -180,8 +183,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 804396033e8468b70800000000000000
-      internalID: 8900881854151341064
+      spriteID: 55f24bdcf138fa110800000000000000
+      internalID: 1274381392187502421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacManDie_4
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 60
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864acaae29ee99070800000000000000
+      internalID: 8113778518454477928
       vertices: []
       indices: 
       edges: []
