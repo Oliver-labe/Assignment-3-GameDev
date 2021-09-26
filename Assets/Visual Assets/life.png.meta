@@ -124,12 +124,12 @@ TextureImporter:
       name: life_0
       rect:
         serializedVersion: 2
-        x: 20
-        y: 192
-        width: 20
-        height: 24
+        x: 0
+        y: 128
+        width: 120
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -145,12 +145,12 @@ TextureImporter:
       name: life_1
       rect:
         serializedVersion: 2
-        x: 48
-        y: 192
-        width: 20
-        height: 24
+        x: 120
+        y: 128
+        width: 120
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -166,12 +166,12 @@ TextureImporter:
       name: life_2
       rect:
         serializedVersion: 2
-        x: 76
-        y: 192
-        width: 20
-        height: 24
+        x: 240
+        y: 128
+        width: 120
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -187,12 +187,12 @@ TextureImporter:
       name: life_3
       rect:
         serializedVersion: 2
-        x: 148
-        y: 192
-        width: 20
-        height: 24
+        x: 0
+        y: 0
+        width: 120
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -200,132 +200,6 @@ TextureImporter:
       bones: []
       spriteID: b20cb76a3d31ef2b0800000000000000
       internalID: -5548975891121717205
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: life_4
-      rect:
-        serializedVersion: 2
-        x: 176
-        y: 192
-        width: 20
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 03a7934efba561630800000000000000
-      internalID: 3897402307749968432
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: life_5
-      rect:
-        serializedVersion: 2
-        x: 204
-        y: 192
-        width: 20
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ac61894c7fa96d440800000000000000
-      internalID: 4960322428541081290
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: life_6
-      rect:
-        serializedVersion: 2
-        x: 276
-        y: 192
-        width: 20
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dc793bd0d566bc3d0800000000000000
-      internalID: -3185339761586628659
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: life_7
-      rect:
-        serializedVersion: 2
-        x: 304
-        y: 192
-        width: 20
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4c98c627f155c2be0800000000000000
-      internalID: -1500730982269154876
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: life_8
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 192
-        width: 20
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2d44a3993ea8c99f0800000000000000
-      internalID: -460340351765691182
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: life_9
-      rect:
-        serializedVersion: 2
-        x: 20
-        y: 64
-        width: 20
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 366765f8b65fc97c0800000000000000
-      internalID: -4063102921479915933
       vertices: []
       indices: 
       edges: []
